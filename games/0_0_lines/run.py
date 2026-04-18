@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
     run_conditions = {
         "run_sims": True,
-        "run_optimization": True,
+        "run_optimization": False,
         "run_analysis": True,
         "run_format_checks": True,
     }
