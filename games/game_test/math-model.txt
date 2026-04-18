@@ -1,0 +1,29 @@
+# Core Game
+
+* Grid: 5×4
+* Paylines: 30 fixed
+* Symbols: 9 total
+    3 Premium (Diamond, Bell, Seven)
+    4 Low (Cherry, Lemon, Orange, Grape)
+    Wild (Reels 2–4 only)
+    Scatter (all reels)
+
+
+# Key Mechanics
+
+1. Wild multiplier
+Each Wild = 2×
+Multiplicative:
+1 Wild → 2×
+2 Wilds → 4×
+3 Wilds → 8×
+
+
+2. Scatter trigger
+Scatters	Spins	Instant Win
+3	        10	    100×
+4	        15	    125×
+5	        20	    150×
+
+3. Alternating reels
+IGNORE for math. This is visual only
