@@ -5,5 +5,6 @@ setup(
     version="0.0.0",
     python_requires=">=3.12",
     author="CarrotRGS",
-    packages=find_packages(),
+    package_dir={'': 'src'},
+    packages=find_packages(where='src'),
 )

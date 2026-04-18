@@ -29,7 +29,7 @@ setup: packInstall
 
 
 run GAME:
-	$(VENV_PY) games/$(GAME)/run.py
+	set PYTHONPATH=$(CURDIR) && $(VENV_PY) games/$(GAME)/run.py
 	@echo "Checking compression setting..."
 	@if grep -q "compression = False" games/$(GAME)/run.py; then \
 		echo "Compression is disabled, formatting books files..."; \
